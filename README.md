@@ -1,2 +1,2 @@
-# Trex
-Trex game created using p5.
+# PROC18-V3ColorfullTrex
+Colorful Trex
